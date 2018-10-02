@@ -1,0 +1,29 @@
+body {
+    background-image: url("trainBG.jpg");
+}
+
+.jumbotron {
+    text-align: center;
+    opacity: 0.7;
+}
+
+#leftOne {
+    padding: 0px 15px 0px 30px;
+}
+
+#rightOne {
+    padding: 0px 30px 0px 15px;
+}
+
+.card-header {
+    color: white;
+    background-color: #339FFF;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
